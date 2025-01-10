@@ -3,10 +3,12 @@ title: Home
 layout: home
 ---
 
-[Jekyll] `Gemfile`
+`Gemfile`
 
 #Heading 1
+
 ##heading 2
+
 ###Heading 3
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
