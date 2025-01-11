@@ -10,6 +10,7 @@ The Midterm project that I chose to do was a box where you had a LED that was bl
 It was similar to what you can find on youtube called 'The Useless Box' since there is no prize in the box and you can open the box at any time.
 
 
+
 Here are the materials used in the creation of what I call the 'LED Useless Box' :
     - Wires (A Lot)
     - 4 input Switch
