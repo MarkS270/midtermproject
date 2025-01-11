@@ -12,6 +12,7 @@ It was similar to what you can find on youtube called 'The Useless Box' since th
 
 
 Here are the materials used in the creation of what I call the 'LED Useless Box' :
+    
     - Wires (A Lot)
     
     - 4 input Switch
@@ -36,3 +37,12 @@ Here are the materials used in the creation of what I call the 'LED Useless Box'
 
 
 
+Hre is the steps I did to create the 'LED Useless Box':
+        
+        1. Go to Tinkercad (Make an account if you don't have one) and start a new project for Circuits --> Here is the link: "tinkercad.com"
+
+        2. Start making the circuit as shown below
+
+        3. Make a Truth Table and make sure it fits the logic in the circuit on Tinkercad. (You might have to go through multiple trial and errors to find the most optimal Truth Table)
+
+        4. 
