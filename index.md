@@ -43,7 +43,9 @@ Hre is the steps I did to create the 'LED Useless Box':
         
         1. Go to Tinkercad (Make an account if you don't have one) and start a new project for Circuits --> Here is the link: "tinkercad.com"
 
-        2. Start making the circuit as shown below
+        2. Start making the circuit as shown below:
+        ![tinkercad](https://github.com/user-attachments/assets/195494c4-7d61-4032-beda-2098d62378de)
+
 
         3. Make a Truth Table and make sure it fits the logic in the circuit on Tinkercad. (You might have to go through multiple trial and errors to find the most optimal Truth Table)
 
