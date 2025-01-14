@@ -57,3 +57,8 @@ Hre is the steps I did to create the 'LED Useless Box':
 
 
 There you Have it. The instructions and ingredients of how to make the 'LED Useless Box'. Here are some pictures of the end result for my 'LED Useless Box':
+
+
+use this website and youtube vid to find out how to add image:
+https://tiiny.host/blog/images-in-markdown/
+https://www.youtube.com/watch?v=PlxozLBF_mY
