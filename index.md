@@ -1,9 +1,9 @@
 ---
-title: Home
+title: Introduction
 layout: home
 ---
 
-`Gemfile`
+Hello, my name is Mark and this website will talk about the reason behind my project, the materials I used to make my project , the steps i took to mae this project possibe, and the end result along with some pictues on each page. 
 
 The Midterm project that I chose to do was a box where you had a LED that was blinking and you had to use the button to turn on the LED for the specified button and also figure out the passcode at the same time.
 
