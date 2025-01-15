@@ -1,5 +1,5 @@
 ---
 title: Apparatus
-layout: default
+layout: home
 ---
 
