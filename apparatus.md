@@ -1,6 +1,6 @@
 ---
 title: Apparatus
-layout: home
+layout: default
 ---
 
 Here are the ingredients
