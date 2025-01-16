@@ -6,7 +6,7 @@ layout: home
 Hello, my name is Mark and this website will talk about the reason behind my project, the materials I used to make my project , the steps i took to mae this project possibe, and the end result along with some pictues on each page. 
 
 The Midterm project that I chose to do was a box where you had a LED that was blinking and you had to use the button to turn on the LED for the specified button and also figure out the passcode at the same time.
-
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll
 
 It was similar to what you can find on youtube called 'The Useless Box' since there is no prize in the box and you can open the box at any time.
 
