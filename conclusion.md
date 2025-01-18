@@ -11,3 +11,4 @@ During My Midterm Project, I learned that not all things can be simplified and d
 During the creation of the Github website, I learned what the _'push', 'add', ' git', 'commit',_ and _'status'_ commands do and how they are important to updating the website from local to Github, I learned about how Github works and how Github simplifies HTML so it is easier to create website, and also learned that the local and Github is called _'markdown'_ and HTML is called _'markup'_.
 
 
+The midterm project along with the creation was a fun, grooling, annoying, and intense experience altogether. I pushed through many problems, and in the end got the end result I wanted. I am happy with what I have created, and hopefully this website is useful to any who come across it.

@@ -8,7 +8,7 @@ nav_order: 3
 
 Here are the steps used to create the bluprints, contruct the _'LED Combination Box'_:
         
-1. Go to Tinkercad (Make an account if you don't have one) and start a new project for Circuits --> Here is the link: "tinkercad.com"
+1. Go to Tinkercad (Make an account if you don't have one, you can also click on the button in the upper right corner area to go to tinkercad) and start a new project for Circuits --> Here is the link: "tinkercad.com"
 
 1. Start making the circuit as shown below:
 ![](images/tinkercad.png)
