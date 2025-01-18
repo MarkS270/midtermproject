@@ -8,8 +8,10 @@ Here are the steps used to create the bluprints, contruct the 'LED Useless Box':
 1. Go to Tinkercad (Make an account if you don't have one) and start a new project for Circuits --> Here is the link: "tinkercad.com"
 
 1. Start making the circuit as shown below:
+![](../images/tinkercad.png)
 
 1. Make a Truth Table and make sure it fits the logic in the circuit on Tinkercad. (You might have to go through multiple trial and errors to find the most optimal Truth Table)
+![](images/led-red.jpg)
 
 1. Follow the blueprint you made on Tinkercad (Make sure the logic works in real life because Tinkercad is just a simulation and will gave different results than what actually will happen.)
 
