@@ -4,7 +4,7 @@ layout: home
 nav_order: 3
 ---
 
-
+# Instructions
 
 Here are the steps used to create the bluprints, contruct the _'LED Combination Box'_:
         
