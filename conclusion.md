@@ -12,3 +12,9 @@ During the creation of the Github website, I learned what the _'push', 'add', ' 
 
 
 The midterm project along with the creation was a fun, grooling, annoying, and intense experience altogether. I pushed through many problems, and in the end got the end result I wanted. I am happy with what I have created, and hopefully this website is useful to any who come across it.
+
+![](images/closed-box.jpg)
+![](images/button-code-side.jpg)
+![](images/green-led-side.jpg)
+![](images/inner-logic-1.jpg)
+![](images/inner-logic-2.jpg)
