@@ -4,7 +4,7 @@ layout: home
 nav_order: 2
 ---
 
-Hare are the materials listed that were used in the construction of 'LED Useless Box':
+Hare are the materials listed that were used in the construction of _'LED Combination Box'_:
     
 - Wires (A Lot)
 ![](images/wires.jpg)
